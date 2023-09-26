@@ -1086,7 +1086,7 @@ input[type=button]:focus {
 
 
     .section-about {
-        padding: 0px 0 0;
+        padding: 71px 0 0;
         background-image: url(../img/605a9c8e59d1b810c572a570_blur-blob-nft-webflow-template.svg);
         background-repeat: no-repeat;
         background-position: bottom right;
@@ -1346,7 +1346,7 @@ input[type=button]:focus {
 
 
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:767px) {
    
     .container {
         max-width: 100%;
