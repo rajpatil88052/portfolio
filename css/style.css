@@ -30,6 +30,10 @@ body {
     margin: 0 auto;
 }
 
+a {
+    text-decoration: none;
+}
+
 
 /*=============== SECTION 1 ================== */
 /*=============== SECTION 1 ================== */
@@ -402,9 +406,10 @@ img.donat {
 
 .swiper-slide img {
     display: block;
-    width: 88%;
-    height: auto;
-    object-fit: cover;
+    width: 300px;
+    height: 250px;
+    object-fit: contain;
+
 }
 
 .browse-button {
